@@ -1,0 +1,91 @@
+
+$ testsyscall
+has started cfs!
+process (pid=4) has nice = 0
+process (pid=5) has nice = 10
+process (pid=6) has nice = 10
+process (pid=7) has nice = 10
+process (pid=8) has nice = 10
+process (pid=9) has nice = 10
+process (pid=10) has nice = 10
+process (pid=11) has nice = 10
+process (pid=12) has nice = 10
+process (pid=13) has nice = 10
+process (pid=14) has nice = 10
+[DEBUG CFS] Process 4 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 4 used 10 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 5 scheduled to run for 6 timeslices next!
+[DEBUG CFS] Process 5 used 6 of assigned 6 timeslices and swapped out!
+[DEBUG CFS] Process 6 scheduled to run for 6 timeslices next!
+[DEBUG CFS] Process 6 used 6 of assigned 6 timeslices and swapped out!
+[DEBUG CFS] Process 7 scheduled to run for 6 timeslices next!
+[DEBUG CFS] Process 7 used 6 of assigned 6 timeslices and swapped out!
+[DEBUG CFS] Process 8 scheduled to run for 6 timeslices next!
+[DEBUG CFS] Process 8 used 6 of assigned 6 timeslices and swapped out!
+[DEBUG CFS] Process 9 scheduled to run for 6 timeslices next!
+[DEBUG CFS] Process 9 used 6 of assigned 6 timeslices and swapped out!
+[DEBUG CFS] Process 10 scheduled to run for 6 timeslices next!
+[DEBUG CFS] Process 10 used 6 of assigned 6 timeslices and swapped out!
+[DEBUG CFS] Process 11 scheduled to run for 6 timeslices next!
+[DEBUG CFS] Process 11 used 6 of assigned 6 timeslices and swapped out!
+[DEBUG CFS] Process 12 scheduled to run for 6 timeslices next!
+[DEBUG CFS] Process 12 used 6 of assigned 6 timeslices and swapped out!
+[DEBUG CFS] Process 13 scheduled to run for 6 timeslices next!
+[DEBUG CFS] Process 13 used 6 of assigned 6 timeslices and swapped out!
+[DEBUG CFS] Process 14 scheduled to run for 6 timeslices next!
+[DEBUG CFS] Process 14 used 6 of assigned 6 timeslices and swapped out!
+[DEBUG CFS] Process 4 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 4 used 10 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 4 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 4 used 10 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 4 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 4 used 10 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 4 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 4 used 1 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 5 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 5 used 10 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 6 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 6 used 10 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 7 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 7 used 10 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 8 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 8 used 10 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 9 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 9 used 10 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 10 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 10 used 10 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 11 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 11 used 10 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 12 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 12 used 10 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 13 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 13 used 10 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 14 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 14 used 10 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 5 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 5 used 10 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 6 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 6 used 10 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 7 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 7 used 10 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 8 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 8 used 10 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 9 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 9 used 10 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 10 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 10 used 10 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 11 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 11 used 10 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 12 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 12 used 10 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 13 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 13 used 10 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 14 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 14 used 10 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 5 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 5 used 10 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 6 scheduled to run for 10 timeslices next!
+[DEBUG CFS] Process 6 used 1 of assigned 10 timeslices and swapped out!
+[DEBUG CFS] Process 4 scheduled to run for 10 timeslices next!
+has stopped cfs
+
