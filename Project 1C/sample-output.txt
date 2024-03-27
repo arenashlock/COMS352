@@ -1,0 +1,150 @@
+
+For basic requirement (no implementation of Rule 5).
+
+$testsyscall 10 10 100
+
+[Note: your outputs can be different, but tickCounts for 0 can't be larger than 2 and tickCounts for 1 can't be larger than 4. 
+If your environment runs faster, you can increase the workload argument to observe larger numbers.]
+
+This is process: 3
+tickCounts[0]: 2
+tickCounts[1]: 4
+tickCounts[2]: 90
+ 
+
+This is process: 4
+tickCounts[0]: 2
+tickCounts[1]: 4
+tickCounts[2]: 84
+
+
+This is process: 6
+tickCounts[0]: 2
+tickCounts[1]: 4
+tickCounts[2]: 84
+
+
+This is process: 7
+tickCounts[0]: 2
+tickCounts[1]: 4
+tickCounts[2]: 90
+
+
+This is process: 8
+tickCounts[0]: 2
+tickCounts[1]: 4
+tickCounts[2]: 84
+
+
+This is process: 9
+tickCounts[0]: 2
+tickCounts[1]: 4
+tickCounts[2]: 90
+
+
+This is process: 10
+tickCounts[0]: 2
+tickCounts[1]: 4
+tickCounts[2]: 84
+
+This is process: 11
+tickCounts[0]: 2
+tickCounts[1]: 4
+tickCounts[2]: 90
+
+
+This is process: 12
+tickCounts[0]: 2
+tickCounts[1]: 4
+tickCounts[2]: 84
+
+
+This is process: 13
+tickCounts[0]: 2
+tickCounts[1]: 4
+tickCounts[2]: 90
+
+
+This is process: 5
+tickCounts[0]: 2
+tickCounts[1]: 4
+tickCounts[2]: 90
+
+
+
+
+For the advanced required (Rule 5 is implemented).
+
+$testsyscall 10 10 100
+
+[Note: your outputs can be different, but the tickCounts for 1 can't be larger than twice of the tickCounts for 0. 
+If your environment runs faster, you can increase the workload argument to observe larger numbers.]
+
+
+This is process: 3
+tickCounts[0]: 12
+tickCounts[1]: 20
+tickCounts[2]: 30
+ 
+
+This is process: 4
+tickCounts[0]: 10
+tickCounts[1]: 20
+tickCounts[2]: 30
+
+
+This is process: 6
+tickCounts[0]: 10
+tickCounts[1]: 20
+tickCounts[2]: 30
+
+
+This is process: 5
+tickCounts[0]: 10
+tickCounts[1]: 20
+tickCounts[2]: 30
+
+
+This is process: 8
+tickCounts[0]: 10
+tickCounts[1]: 20
+tickCounts[2]: 24
+
+
+This is process: 7
+tickCounts[0]: 10
+tickCounts[1]: 20
+tickCounts[2]: 24
+
+
+This is process: 9
+tickCounts[0]: 10
+tickCounts[1]: 20
+tickCounts[2]: 24
+
+This is process: 11
+tickCounts[0]: 10
+tickCounts[1]: 20
+tickCounts[2]: 18
+
+
+This is process: 10
+tickCounts[0]: 10
+tickCounts[1]: 20
+tickCounts[2]: 18
+
+
+This is process: 13
+tickCounts[0]: 10
+tickCounts[1]: 20
+tickCounts[2]: 6
+
+
+This is process: 12
+tickCounts[0]: 10
+tickCounts[1]: 20
+tickCounts[2]: 6
+
+
+
+
